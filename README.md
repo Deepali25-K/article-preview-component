@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Code Demo]()
+- Live Site URL: [Code Demo](https://article-preview-deepali.netlify.app/)
 
 ## My process
 
